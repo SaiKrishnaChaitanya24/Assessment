@@ -13,3 +13,8 @@ Upload the dataset ("EngreitzLabACBDataSet.txt") to the Colab environment. You c
 ## Run the Code:
 
 Once the dataset is available in the Colab environment, run the provided R code. Ensure that all necessary libraries are installed, and the code is executed sequentially.
+
+
+I've attached the ACB Data Analysis Quiz report, which contains my responses to the questions provided in the quiz. You can find the report in the repository for your review.
+
+In the report, I've provided detailed analyses and insights based on the given dataset, addressing the questions and objectives outlined in the quiz. Each section of the report corresponds to a specific question or task, organized in a clear and structured manner for easy reference and understanding.
