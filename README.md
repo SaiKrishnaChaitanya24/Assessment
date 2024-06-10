@@ -1,1 +1,15 @@
-# Assessment
+# Running the Code
+
+To execute the code in Google Colab, follow these steps:
+
+## Change Runtime Type:
+
+Change the runtime type to R in Google Colab. This ensures that you can run R code seamlessly.
+
+## Add Dataset to Colab Environment:
+
+Upload the dataset ("EngreitzLabACBDataSet.txt") to the Colab environment. You can either upload it directly or mount Google Drive to access it if it's stored there.
+
+## Run the Code:
+
+Once the dataset is available in the Colab environment, run the provided R code. Ensure that all necessary libraries are installed, and the code is executed sequentially.
